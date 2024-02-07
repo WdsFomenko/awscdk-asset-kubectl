@@ -46,8 +46,6 @@ junit.xml
 !/test/
 !/tsconfig.dev.json
 !/src/
-/lib
-/dist/
 !/.eslintrc.json
 .jsii
 tsconfig.json
@@ -63,3 +61,4 @@ test/kubectl-layer.integ.snapshot/tree.json
 test/kubectl-layer.integ.snapshot/**/tree.json
 !/.gitpod.yml
 !/.projenrc.ts
+.idea
